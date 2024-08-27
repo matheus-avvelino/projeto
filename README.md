@@ -18,8 +18,7 @@ Depois de clonar o repositório, siga os passos abaixo para importar o projeto M
 
 2. Importe o projeto Maven:
    - Vá para `File` > `Import...`.
-
-![import](https://github.com/user-attachments/assets/b0cb7562-b993-465b-bafb-67b587bbf991)
+![import 0](images/import 0.PNG)
 
    - Selecione `Existing Maven Projects` em `Maven` e clique em `Next`.
 
