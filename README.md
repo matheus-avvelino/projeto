@@ -17,9 +17,10 @@ Depois de clonar o repositório, siga os passos abaixo para importar o projeto M
 1. Abra o Eclipse.
 
 2. Importe o projeto Maven:
-    ![image](https://github.com/user-attachments/assets/099fff06-3116-4846-940a-19c0ead7cb18)
    - Vá para `File` > `Import...`.
-    ![image](https://github.com/user-attachments/assets/eef25e0e-a4e0-47a5-a7c5-4fb20d9fec9f)
+
+![import](https://github.com/user-attachments/assets/b0cb7562-b993-465b-bafb-67b587bbf991)
+
    - Selecione `Existing Maven Projects` em `Maven` e clique em `Next`.
 
    - Clique em `Browse...` e navegue até o diretório onde você clonou o repositório.
