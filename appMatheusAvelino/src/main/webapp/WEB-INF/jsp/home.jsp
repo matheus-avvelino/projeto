@@ -5,7 +5,7 @@
 <head>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 <meta charset="ISO-8859-1">
-<title>AppGAP: Gest�o de Atendimento Psicologo</title>
+<title>AppGAP: Gestão de Atendimento Psicologo</title>
 </head>
 <body>
 	<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
@@ -17,6 +17,7 @@
 				<li class="nav-item"><a class="nav-link" href="/paciente/listagem">Paciente</a></li>
 				<li class="nav-item"><a class="nav-link" href="/abordagem/listagem">Abordagem</a></li>
 				<li class="nav-item"><a class="nav-link" href="/atendimento/listagem">Atendimento</a></li>
+				<li class="nav-item"><a class="nav-link" href="/doc/index.html" target="_blank">Documentação</a>
 			</ul>
 		</div>
 	</nav>
@@ -31,7 +32,7 @@
 		
 		<c:if test="${not empty listagem}">
 			<h2>AppGAP</h2>
-			<p>Gest�o de Atendimento Psicologo:</p>
+			<p>Gestão de Atendimento Psicologo:</p>
 			<table class="table">
 				<thead class="table-dark">
 					<tr>
