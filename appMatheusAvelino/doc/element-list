@@ -1,0 +1,6 @@
+br.edu.infnet.appMatheusAvelino
+br.edu.infnet.appMatheusAvelino.client
+br.edu.infnet.appMatheusAvelino.controller
+br.edu.infnet.appMatheusAvelino.model.domain
+br.edu.infnet.appMatheusAvelino.model.repository
+br.edu.infnet.appMatheusAvelino.model.service

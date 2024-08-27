@@ -1,0 +1,3 @@
+Joao Ribeiro;joao@joao.com;30;12345678964;60811905;Avenida Washington Soares;1321;Edson Queiroz;Fortaleza;CE
+Caio Nunes;caio@caio.com;18;45678913796;26510780;Rua São José;quato andar;Centro;Rio de Janeiro;RJ
+Maria Oliveira;maria@maria.com;25;78945621344;33858570;Rua São José;quato andar;Centro;Rio de Janeiro;RJ
