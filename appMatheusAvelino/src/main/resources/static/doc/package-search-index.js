@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"br.edu.infnet.appMatheusAvelino.client"},{"l":"br.edu.infnet.appMatheusAvelino.controller"},{"l":"br.edu.infnet.appMatheusAvelino.model.domain"},{"l":"br.edu.infnet.appMatheusAvelino.model.repository"},{"l":"br.edu.infnet.appMatheusAvelino.model.service"}];updateSearchResults();
