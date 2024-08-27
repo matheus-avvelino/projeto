@@ -17,7 +17,7 @@
 				<li class="nav-item"><a class="nav-link" href="/paciente/listagem">Paciente</a></li>
 				<li class="nav-item"><a class="nav-link" href="/abordagem/listagem">Abordagem</a></li>
 				<li class="nav-item"><a class="nav-link" href="/atendimento/listagem">Atendimento</a></li>
-				<li class="nav-item"><a class="nav-link" href="/doc/index.html" target="_blank">Documentação</a>
+				<li class="nav-item"><a class="nav-link text-info" href="/doc/index.html" target="_blank"JavaDoc</a>
 			</ul>
 		</div>
 	</nav>
